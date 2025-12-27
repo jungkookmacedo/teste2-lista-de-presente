@@ -1,0 +1,30 @@
+/*ESTILO GERAL (BODY)*/
+
+body {
+    background-color:cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 2;
+
+}
+
+h1, h2{
+    color:black;
+    text-align: center;
+}
+
+h3{
+    color:black;
+}
+
+header {
+    background-color:deeppink;
+}
+
+img {
+    max-width: 550px;
+    border-radius: 10px;
+    height: auto; 
+     display: block;
+    margin: 20px auto;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
